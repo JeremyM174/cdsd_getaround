@@ -15,6 +15,7 @@ Ce bref projet est consacré au déploiement d'application. Vous trouverez ici:
 
 * Le notebook .ipynb ayant entraîné le modèle,
 * Le modèle .joblib,
+* L'environnement .yaml pour le réentraîner,
 * Les dossiers incorporant les fichiers nécessaires au déploiement de l'app.
 
 Bonne exploration! :feet:
@@ -39,6 +40,7 @@ This short project is dedicated to application deployment. You may find here:
 
 * The .ipynb notebook which trained the model,
 * The .joblib model,
+* The .yaml environment to train it again,
 * The folders used to deploy the app.
 
 Have fun exploring! :feet:
